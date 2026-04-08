@@ -1,0 +1,13 @@
+services:
+  ui:
+    build: ./ui
+    container_name: Visual1n_FE
+    restart: unless-stopped
+    ports:
+      - "3003:3000"
+    networks:
+      - visual1n_net
+
+networks:
+  visual1n_net:
+    driver: bridge
