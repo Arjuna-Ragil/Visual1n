@@ -77,7 +77,7 @@ export default function LandingPage() {
 
                             <div className="group cursor-pointer">
                                 <div className="relative aspect-16/10 bg-zinc-900 mb-8 overflow-hidden rounded-md border border-zinc-500/20">
-                                    <Image fill src="/v1sualin%20web%20design.svg" alt="Web Design" className="object-center group-hover:scale-105 transition-transform duration-700" />
+                                    <Image fill src="/v1sualin%20web%20design.webp" alt="Web Design" className="object-cover group-hover:scale-105 transition-transform duration-700" />
                                 </div>
                                 <div className="flex justify-between items-center">
                                     <h3 className="text-xl font-bold tracking-tight">Web Design</h3>
@@ -86,7 +86,7 @@ export default function LandingPage() {
 
                             <div className="group cursor-pointer">
                                 <div className="relative aspect-16/10 bg-zinc-900 mb-8 overflow-hidden rounded-md border border-zinc-500/20">
-                                    <Image fill src="/v1sualin%20fe%20web.svg" alt="Frontend Website" className="object-center group-hover:scale-105 transition-transform duration-700" />
+                                    <Image fill src="/v1sualin%20fe%20web.webp" alt="Frontend Website" className="object-cover group-hover:scale-105 transition-transform duration-700" />
                                 </div>
                                 <div className="flex justify-between items-center">
                                     <h3 className="text-xl font-bold tracking-tight">Frontend Website</h3>
@@ -95,7 +95,7 @@ export default function LandingPage() {
 
                             <div className="group cursor-pointer">
                                 <div className="relative aspect-16/10 bg-zinc-900 mb-8 overflow-hidden rounded-md border border-zinc-500/20">
-                                    <Image fill src="/v1sualin%20id%20card.svg" alt="Lanyard + Id card" className="object-center group-hover:scale-105 transition-transform duration-700" />
+                                    <Image fill src="/v1sualin%20id%20card.webp" alt="Lanyard + Id card" className="object-cover group-hover:scale-105 transition-transform duration-700" />
                                 </div>
                                 <div className="flex justify-between items-center">
                                     <h3 className="text-xl font-bold tracking-tight">Lanyard + Id card</h3>
@@ -104,7 +104,7 @@ export default function LandingPage() {
 
                             <div className="group cursor-pointer">
                                 <div className="relative aspect-16/10 bg-zinc-900 mb-8 overflow-hidden rounded-md border border-zinc-500/20">
-                                    <Image fill src="/v1sualin%20banner.svg" alt="Header + Banner + Poster" className="object-center group-hover:scale-105 transition-transform duration-700" />
+                                    <Image fill src="/v1sualin%20banner.webp" alt="Header + Banner + Poster" className="object-cover group-hover:scale-105 transition-transform duration-700" />
                                 </div>
                                 <div className="flex justify-between items-center">
                                     <h3 className="text-xl font-bold tracking-tight">Header + Banner + Poster</h3>
@@ -238,7 +238,7 @@ export default function LandingPage() {
                         </p>
                     </div>
                     <div className="relative w-full aspect-21/9 bg-zinc-900 overflow-hidden shadow-xl rounded-xl border border-zinc-500/20">
-                        <Image fill src="/v1sualin%20team.svg" alt="The Visualin Team" className="object-cover" priority />
+                        <Image fill src="/v1sualin%20team.webp" alt="The Visualin Team" className="object-cover" />
                         <div className="absolute inset-0 bg-linear-to-t from-black/30 via-transparent to-transparent opacity-80 pointer-events-none"></div>
                     </div>
                 </section>
