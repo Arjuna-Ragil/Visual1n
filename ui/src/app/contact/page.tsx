@@ -5,14 +5,14 @@ export default function ContactPage() {
   return (
     <>
       <div className="fixed inset-0 -z-10 bg-black">
-         <Aurora colorStops={["#ffffff", "#6b6b6b", "#000000"]} blend={0.6} amplitude={1.0} speed={0.5} />
+        <Aurora colorStops={["#ffffff", "#6b6b6b", "#000000"]} blend={0.6} amplitude={1.0} speed={0.5} />
       </div>
 
       <main className="w-full max-w-md mx-auto my-6 md:my-10 px-8 pt-12 pb-8 flex flex-col items-center relative z-10 bg-white/70 border border-white/40 backdrop-blur-3xl rounded-[3rem] shadow-[0_0_60px_rgba(255,255,255,0.1)]">
 
         <section className="flex flex-col items-center mb-12 text-center">
           <div className="mb-4 pointer-events-none">
-             <Image src="/V1SUALIN LIGHT.png" alt="Visualin Logo" width={350} height={80} className="h-16 w-auto object-contain invert opacity-95" priority />
+            <Image src="/V1SUALIN LIGHT.png" alt="Visualin Logo" width={350} height={80} className="h-16 w-auto object-contain invert opacity-95" priority />
           </div>
           <p className="text-[10px] uppercase tracking-[0.2em] font-bold text-black/60 mt-2">MINIMALIST DESIGN SOLUTIONS</p>
         </section>
