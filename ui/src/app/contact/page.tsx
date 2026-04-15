@@ -21,23 +21,18 @@ export default function ContactPage() {
 
           <div className="grid grid-cols-2 gap-4 h-48">
 
-            <a className="group relative bg-surface-container-lowest border border-black/5 flex flex-col justify-end p-6 hover:bg-primary transition-all duration-500 overflow-hidden" href="#">
+            <a className="group relative bg-surface-container-lowest border border-black/5 flex flex-col justify-end p-6 hover:bg-primary transition-all duration-500 overflow-hidden" href="/">
               <span className="material-symbols-outlined text-black/50 group-hover:text-white/50 transition-colors absolute top-6 right-6" data-icon="language">language</span>
               <span className="text-[10px] uppercase tracking-[0.15em] font-bold text-black group-hover:text-white transition-colors">Main Website</span>
             </a>
 
-            <a className="group relative bg-surface-container-lowest border border-black/5 flex flex-col justify-end p-6 hover:bg-primary transition-all duration-500 overflow-hidden" href="#">
+            <a className="group relative bg-surface-container-lowest border border-black/5 flex flex-col justify-end p-6 hover:bg-primary transition-all duration-500 overflow-hidden" href="https://www.instagram.com/v1sualin/">
               <span className="material-symbols-outlined text-black/50 group-hover:text-white/50 transition-colors absolute top-6 right-6" data-icon="camera">camera</span>
               <span className="text-[10px] uppercase tracking-[0.15em] font-bold text-black group-hover:text-white transition-colors">Instagram</span>
             </a>
           </div>
 
-          <a className="group relative bg-surface-container-lowest border border-black/5 h-24 flex items-center justify-between px-8 hover:bg-primary transition-all duration-500 overflow-hidden" href="#">
-            <span className="text-[10px] uppercase tracking-[0.15em] font-bold text-black group-hover:text-white transition-colors">WhatsApp Business</span>
-            <span className="material-symbols-outlined text-black/50 group-hover:text-white/50 transition-colors" data-icon="chat">chat</span>
-          </a>
-
-          <a className="group relative bg-surface-container-lowest border border-black/5 h-24 flex items-center justify-between px-8 hover:bg-primary transition-all duration-500 overflow-hidden" href="#">
+          <a className="group relative bg-surface-container-lowest border border-black/5 h-24 flex items-center justify-between px-8 hover:bg-primary transition-all duration-500 overflow-hidden" href="mailto:v1sualin.desain@gmail.com">
             <span className="text-[10px] uppercase tracking-[0.15em] font-bold text-black group-hover:text-white transition-colors">Direct Email</span>
             <span className="material-symbols-outlined text-black/50 group-hover:text-white/50 transition-colors" data-icon="mail">mail</span>
           </a>
