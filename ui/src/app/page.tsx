@@ -16,12 +16,12 @@ export default function LandingPage() {
                     </div>
                     <div className="w-full px-8 max-w-5xl mx-auto pt-32 pb-20 text-center flex flex-col items-center justify-center">
                         <div className="text-white mix-blend-difference">
-                            <span className="text-xs font-bold tracking-[0.2em] uppercase mb-6 block">Crafting Visuals With Purpose</span>
+                            <span className="text-xs font-bold tracking-[0.2em] uppercase mb-6 block">Premium Design &amp; Dev Agency</span>
                             <h1 className="text-5xl md:text-8xl font-black tracking-tighter leading-[1.1] mb-8">
-                                Design That Defines,<br />Code That Delivers
+                                Crafting Visuals With Purpose
                             </h1>
                             <p className="text-sm md:text-2xl max-w-2xl mx-auto mb-10 leading-relaxed font-bold">
-                                V1sualin blends creative graphic design with seamless frontend development to build digital experiences that inspire.
+                                V1SUALIN blends creative graphic design with seamless frontend development to build digital experiences that inspire.
                             </p>
                         </div>
                         <div className="flex flex-col sm:flex-row gap-6 justify-center w-full sm:w-auto relative z-10">
@@ -45,7 +45,7 @@ export default function LandingPage() {
                                 Our Modern Approach
                             </h2>
                             <p className="text-sm font-medium leading-relaxed mb-12 ">
-                                V1sualin exists at the intersection of creative design and engineering. We don't just make things look good; we build systems that perform.
+                                V1SUALIN exists at the intersection of creative design and engineering. We don't just make things look good; we build systems that perform.
                             </p>
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-10">
                                 <div>
@@ -157,13 +157,13 @@ export default function LandingPage() {
 
                 <section id="team" className="py-32 px-8 max-w-7xl mx-auto text-center">
                     <div className="mb-5 max-w-2xl mx-auto">
-                        <h2 className="text-5xl font-black tracking-tighter mb-6">The Team Behind V1sualin</h2>
+                        <h2 className="text-5xl font-black tracking-tighter mb-6">The Team Behind V1SUALIN</h2>
                         <p className="text-on-surface-variant leading-relaxed">
                             A collective of designers, developers, and strategists dedicated to pushing the boundaries of the digital landscape.
                         </p>
                     </div>
                     <div className="relative max-w-4xl mx-auto aspect-video bg-zinc-900 overflow-hidden shadow-xl rounded-xl border border-zinc-500/20">
-                        <Image fill src="/v1sualin%20team.webp" alt="The Visualin Team" sizes="(max-width: 896px) 100vw, 896px" className="object-cover" />
+                        <Image fill src="/v1sualin%20team.webp" alt="The Visualin Team" sizes="(max-width: 896px) 100vw, 896px" className="object-cover" priority />
                         <div className="absolute inset-0 bg-linear-to-t from-black/30 via-transparent to-transparent opacity-80 pointer-events-none"></div>
                     </div>
                 </section>
@@ -173,7 +173,7 @@ export default function LandingPage() {
                 <div className="relative z-10 flex flex-col-reverse lg:flex-row justify-between items-start lg:items-center gap-16 max-w-7xl mx-auto">
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-24 w-full lg:w-auto">
                         <div className="max-w-xs">
-                            <span className="text-xl font-black text-black dark:text-white mb-4 block">V1sualin</span>
+                            <span className="text-xl font-black text-black dark:text-white mb-4 block">V1SUALIN</span>
                             <p className="text-zinc-500 dark:text-zinc-400 font-['Inter'] text-sm leading-relaxed max-w-xs">
                                 Building the future of digital architecture, one pixel at a time.
                             </p>
@@ -205,7 +205,7 @@ export default function LandingPage() {
                     </div>
                 </div>
                 <div className="relative z-10 max-w-7xl mx-auto mt-20 pt-8 border-t border-zinc-200/50 dark:border-zinc-800/50">
-                    <p className="font-['Inter'] text-sm text-zinc-500 dark:text-zinc-400">© 2026 V1sualin. All rights reserved.</p>
+                    <p className="font-['Inter'] text-sm text-zinc-500 dark:text-zinc-400">© 2026 V1SUALIN. All rights reserved.</p>
                 </div>
             </footer>
         </>
