@@ -16,7 +16,7 @@ export default function LandingPage() {
                     </div>
                     <div className="w-full px-8 max-w-5xl mx-auto pt-32 pb-20 text-center flex flex-col items-center justify-center">
                         <div className="text-white mix-blend-difference">
-                            <span className="text-xs font-bold tracking-[0.2em] uppercase mb-6 block">Premium Design &amp; Dev Agency</span>
+                            <span className="text-xs font-bold tracking-[0.2em] uppercase mb-6 block">Crafting Visuals With Purpose</span>
                             <h1 className="text-5xl md:text-8xl font-black tracking-tighter leading-[1.1] mb-8">
                                 Design That Defines,<br />Code That Delivers
                             </h1>
