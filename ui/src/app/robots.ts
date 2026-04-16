@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/private/'],
     },
-    sitemap: 'https://v1sualin.com/sitemap.xml',
+    sitemap: 'https://v1sualin.my.id/sitemap.xml',
   };
 }

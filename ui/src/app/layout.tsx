@@ -2,7 +2,10 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://v1sualin.com'),
+  metadataBase: new URL('https://v1sualin.my.id'),
+  alternates: {
+    canonical: '/',
+  },
   title: {
     default: "V1SUALIN | Premium Design & Engineering Agency",
     template: "%s | V1SUALIN"
@@ -14,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://v1sualin.com",
+    url: "https://v1sualin.my.id",
     title: "V1SUALIN | Premium Design & Engineering Agency",
     description: "Visualin exists at the intersection of creative design and engineering. We build high-performance, precision-crafted digital architecture.",
     siteName: "V1SUALIN",
