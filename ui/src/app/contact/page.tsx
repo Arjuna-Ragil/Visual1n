@@ -58,12 +58,12 @@ export default function ContactPage() {
       </main>
 
       <footer className="w-full py-6 flex flex-col items-center gap-4 px-8 mt-auto relative z-10">
-        <div className="text-white/80 font-black tracking-[0.15em] text-xs uppercase">VISUALIN</div>
+        <div className="text-white/80 font-black tracking-[0.15em] text-xs uppercase">V1SUALIN</div>
         <div className="flex gap-6">
           <a className="font-['Inter'] text-[10px] uppercase tracking-[0.15em] font-medium text-white/50 hover:text-white transition-colors" href="#">Privacy</a>
           <a className="font-['Inter'] text-[10px] uppercase tracking-[0.15em] font-medium text-white/50 hover:text-white transition-colors" href="#">Terms</a>
         </div>
-        <p className="font-['Inter'] text-[10px] uppercase tracking-[0.15em] font-medium text-white/50">© 2026 VISUALIN ARCHITECTS</p>
+        <p className="font-['Inter'] text-[10px] uppercase tracking-[0.15em] font-medium text-white/50">© 2026 V1SUALIN ARCHITECTS</p>
       </footer>
     </>
   );

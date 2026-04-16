@@ -21,7 +21,7 @@ export default function LandingPage() {
                                 Design That Defines,<br />Code That Delivers
                             </h1>
                             <p className="text-sm md:text-2xl max-w-2xl mx-auto mb-10 leading-relaxed font-bold">
-                                Visualin blends creative graphic design with seamless frontend development to build digital experiences that inspire.
+                                V1sualin blends creative graphic design with seamless frontend development to build digital experiences that inspire.
                             </p>
                         </div>
                         <div className="flex flex-col sm:flex-row gap-6 justify-center w-full sm:w-auto relative z-10">
@@ -45,7 +45,7 @@ export default function LandingPage() {
                                 Our Modern Approach
                             </h2>
                             <p className="text-sm font-medium leading-relaxed mb-12 ">
-                                Visualin exists at the intersection of creative design and engineering. We don't just make things look good; we build systems that perform.
+                                V1sualin exists at the intersection of creative design and engineering. We don't just make things look good; we build systems that perform.
                             </p>
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-10">
                                 <div>
@@ -157,7 +157,7 @@ export default function LandingPage() {
 
                 <section id="team" className="py-32 px-8 max-w-7xl mx-auto text-center">
                     <div className="mb-5 max-w-2xl mx-auto">
-                        <h2 className="text-5xl font-black tracking-tighter mb-6">The Team Behind Visualin</h2>
+                        <h2 className="text-5xl font-black tracking-tighter mb-6">The Team Behind V1sualin</h2>
                         <p className="text-on-surface-variant leading-relaxed">
                             A collective of designers, developers, and strategists dedicated to pushing the boundaries of the digital landscape.
                         </p>
@@ -173,7 +173,7 @@ export default function LandingPage() {
                 <div className="relative z-10 flex flex-col-reverse lg:flex-row justify-between items-start lg:items-center gap-16 max-w-7xl mx-auto">
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-24 w-full lg:w-auto">
                         <div className="max-w-xs">
-                            <span className="text-xl font-black text-black dark:text-white mb-4 block">Visualin</span>
+                            <span className="text-xl font-black text-black dark:text-white mb-4 block">V1sualin</span>
                             <p className="text-zinc-500 dark:text-zinc-400 font-['Inter'] text-sm leading-relaxed max-w-xs">
                                 Building the future of digital architecture, one pixel at a time.
                             </p>
@@ -205,7 +205,7 @@ export default function LandingPage() {
                     </div>
                 </div>
                 <div className="relative z-10 max-w-7xl mx-auto mt-20 pt-8 border-t border-zinc-200/50 dark:border-zinc-800/50">
-                    <p className="font-['Inter'] text-sm text-zinc-500 dark:text-zinc-400">© 2026 Visualin. All rights reserved.</p>
+                    <p className="font-['Inter'] text-sm text-zinc-500 dark:text-zinc-400">© 2026 V1sualin. All rights reserved.</p>
                 </div>
             </footer>
         </>
