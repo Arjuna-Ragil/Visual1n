@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   title: {
-    default: "V1SUALIN | Premium Design & Engineering Agency",
+    default: "V1SUALIN | Graphic Design & Digital Creative Service",
     template: "%s | V1SUALIN"
   },
   description: "Visualin exists at the intersection of creative design and engineering. We build high-performance, precision-crafted digital architecture, websites, and brand identities tailored to your specific DNA.",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://v1sualin.my.id",
-    title: "V1SUALIN | Premium Design & Engineering Agency",
+    title: "V1SUALIN | Graphic Design & Digital Creative Service",
     description: "Visualin exists at the intersection of creative design and engineering. We build high-performance, precision-crafted digital architecture.",
     siteName: "V1SUALIN",
     images: [{
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "V1SUALIN | Premium Design & Engineering Agency",
+    title: "V1SUALIN | Graphic Design & Digital Creative Service",
     description: "Visualin exists at the intersection of creative design and engineering. We build high-performance digital architecture.",
     images: ["/icon.png"],
   },
