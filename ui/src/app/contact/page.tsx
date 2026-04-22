@@ -26,12 +26,16 @@ export default function ContactPage() {
               <span className="text-[10px] uppercase tracking-[0.15em] font-medium text-white/80 group-hover:text-white transition-colors">Main Website</span>
             </a>
 
-            <a className="group relative bg-white/5 border border-white/10 rounded-2xl flex flex-col justify-end p-6 hover:bg-white/15 hover:border-white/20 hover:shadow-[0_0_30px_rgba(255,255,255,0.1)] transition-all duration-500 overflow-hidden backdrop-blur-sm" href="https://www.instagram.com/v1sualin/">
+            <a className="group relative bg-white/5 border border-white/10 rounded-2xl flex flex-col justify-end p-6 hover:bg-white/15 hover:border-white/20 hover:shadow-[0_0_30px_rgba(255,255,255,0.1)] transition-all duration-500 overflow-hidden backdrop-blur-sm" href="https://www.instagram.com/v1sualin/" target='_blank'>
               <span className="material-symbols-outlined text-white/50 group-hover:text-white transition-colors absolute top-6 right-6" data-icon="camera">camera</span>
               <span className="text-[10px] uppercase tracking-[0.15em] font-medium text-white/80 group-hover:text-white transition-colors">Instagram</span>
             </a>
           </div>
 
+          <a className="group relative bg-white/5 border border-white/10 rounded-2xl h-24 flex items-center justify-between px-8 hover:bg-white/15 hover:border-white/20 hover:shadow-[0_0_30px_rgba(255,255,255,0.1)] transition-all duration-500 overflow-hidden backdrop-blur-sm" href="https://wa.me/6283142551365" target='_blank'>
+            <span className="text-[10px] uppercase tracking-[0.15em] font-medium text-white/80 group-hover:text-white transition-colors">WhatsApp business</span>
+            <span className="material-symbols-outlined text-white/50 group-hover:text-white transition-colors" data-icon="phone">phone</span>
+          </a>
           <a className="group relative bg-white/5 border border-white/10 rounded-2xl h-24 flex items-center justify-between px-8 hover:bg-white/15 hover:border-white/20 hover:shadow-[0_0_30px_rgba(255,255,255,0.1)] transition-all duration-500 overflow-hidden backdrop-blur-sm" href="mailto:v1sualin.desain@gmail.com">
             <span className="text-[10px] uppercase tracking-[0.15em] font-medium text-white/80 group-hover:text-white transition-colors">Direct Email</span>
             <span className="material-symbols-outlined text-white/50 group-hover:text-white transition-colors" data-icon="mail">mail</span>

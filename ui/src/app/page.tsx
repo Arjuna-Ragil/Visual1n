@@ -193,6 +193,9 @@ export default function LandingPage() {
                                 <a href="https://www.instagram.com/v1sualin/" target="_blank" rel="noopener noreferrer" className="font-['Inter'] text-sm text-zinc-500 dark:text-zinc-400 hover:text-black dark:hover:text-white transition-colors">
                                     Instagram
                                 </a>
+                                <a href="https://wa.me/6283142551365" target="_blank" rel="noopener noreferrer" className="font-['Inter'] text-sm text-zinc-500 dark:text-zinc-400 hover:text-black dark:hover:text-white transition-colors">
+                                    +62 831-4255-1365
+                                </a>
                                 <a href="mailto:v1sualin.desain@gmail.com" target="_blank" rel="noopener noreferrer" className="font-['Inter'] text-sm text-zinc-500 dark:text-zinc-400 hover:text-black dark:hover:text-white transition-colors">
                                     v1sualin.desain@gmail.com
                                 </a>
