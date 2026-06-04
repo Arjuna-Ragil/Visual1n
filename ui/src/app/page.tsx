@@ -127,8 +127,8 @@ export default function LandingPage() {
                                 icon="web"
                                 description="Bespoke web experiences built with React and Next.js, prioritizing performance and user-centric design patterns."
                                 pricing={[
-                                    { name: 'Desain + FE Website / layar', price: '150k' },
-                                    { name: 'Desain UIUX / wireframe', price: '80k' }
+                                    { name: 'Desain + FE Website / layar', price: '200k' },
+                                    { name: 'Desain / layar', price: '100k' }
                                 ]}
                             />
                             <ServiceCard
@@ -147,8 +147,8 @@ export default function LandingPage() {
                                 icon="inventory_2"
                                 description="Curated corporate gifts and apparel that resonate. From lanyards to premium brand toolkits for your team."
                                 pricing={[
-                                    { name: 'Desain Lanyard', price: '20k' },
-                                    { name: 'Desain ID Card', price: '20k' }
+                                    { name: 'Desain Lanyard', price: '30k' },
+                                    { name: 'Desain ID Card', price: '30k' }
                                 ]}
                             />
                         </div>
