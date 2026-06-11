@@ -123,11 +123,11 @@ export default function LandingPage() {
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
 
                             <ServiceCard
-                                title="Web & Frontend"
+                                title="Design Web (Frontend)"
                                 icon="web"
                                 description="Bespoke web experiences built with React and Next.js, prioritizing performance and user-centric design patterns."
                                 pricing={[
-                                    { name: 'Desain + FE Website / layar', price: '200k' },
+                                    { name: 'Desain + Kodingan / layar', price: '200k' },
                                     { name: 'Desain / layar', price: '100k' }
                                 ]}
                             />
@@ -143,7 +143,7 @@ export default function LandingPage() {
                                 ]}
                             />
                             <ServiceCard
-                                title="Merchandise"
+                                title="Merchandise Design"
                                 icon="inventory_2"
                                 description="Curated corporate gifts and apparel that resonate. From lanyards to premium brand toolkits for your team."
                                 pricing={[
