@@ -175,7 +175,7 @@ export default function LandingPage() {
                         <div className="max-w-xs">
                             <span className="text-xl font-black text-black dark:text-white mb-4 block">V1SUALIN</span>
                             <p className="text-zinc-500 dark:text-zinc-400 font-['Inter'] text-sm leading-relaxed max-w-xs">
-                                Building the future of digital architecture, one pixel at a time.
+                                Crafting Visuals With Purpose.
                             </p>
                         </div>
                         <div>
